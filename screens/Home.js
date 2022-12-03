@@ -616,6 +616,6 @@ const styles = StyleSheet.create({
         shadowRadius: 3,
         elevation: 1,
     }
-})
+});
 
-export default Home
+export default Home;
